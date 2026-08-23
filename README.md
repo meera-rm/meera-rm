@@ -1,5 +1,7 @@
 ## Hi there 👋
+I am a Software Engineer/Full Stack Developer 🚀 from NYC, proficient in Full Stack Web Development, worked as Data Analyst, Java Developer and Data Engineering teams as part of my rotational program
 
+I am passionate about learning and curiosity has been a part of me forever. My experiences in and outside of working with nonprofits in addition to design consulting, have given me the analytical skills and curiosity to bring in creative problem solving when learning and using code.
 # 💫 About Me:
 🔭 I’m currently working on Codescanner-hackathon — a multi-agent AI code scanning & refactoring platform<br>👯 I’m looking to collaborate on on open-source projects <br>🤝 I’m looking for help with with understanding LLMs<br>🌱 I’m currently learning Python and Java fundamentals<br>⚡ Fun fact : I enjoy being creative, experimenting with new projects (baking, DIY) to bring to fruition
 
