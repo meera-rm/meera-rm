@@ -1,7 +1,18 @@
 ## Hi there 👋
-I am a Software Engineer/Full Stack Developer 🚀 from NYC, proficient in Full Stack Web Development, worked as Data Analyst, Java Developer and Data Engineering teams as part of my rotational program
+Here's a tightened version — also fixed to past tense since you're no longer in that role, and folded in the rotational program framing from your headline.
 
-I am passionate about learning and curiosity has been a part of me forever. My experiences in and outside of working with nonprofits in addition to design consulting, have given me the analytical skills and curiosity to bring in creative problem solving when learning and using code.
+## Headline
+> Software Engineer / Full Stack Developer 🚀 | NYC | Full Stack, Java, Data Engineering & Data Analytics
+
+## About
+
+Hi, I'm Meera — a software engineer with a builder's curiosity and a nonprofit background that shapes how I approach problems in code.
+
+I've worked across the stack: writing SOQL/SQL for data audits, building Java-based backend systems, and maintaining Databricks pipelines — most recently through a technical rotational program spanning data analytics, backend development, and data engineering. I built a custom fixture-generation and test-data tool as a Claude Code plugin to streamline QA test-data setup, and use AI-assisted tools like Claude Code as a core part of my workflow — always verifying output rather than accepting it at face value.
+I'm a graduate of Pursuit Fellowship (12-month program, 9% acceptance rate) and The Collab Lab apprenticeship, where I learned how engineering teams actually work — Agile sprints, code review, and close collaboration. I studied computer science in college, but web development is what hooked me: nothing beats watching code become something a real person can click and use.
+As a frontend developer, I've built full-stack tools in Next.js, React, and TypeScript, including an AI-driven data-querying UI and a predictive shopping-list app with Firebase/Firestore.
+I'm currently exploring software engineering opportunities where I can keep combining backend, data, and frontend work.
+
 # 💫 About Me:
 🔭 I’m currently working on Codescanner-hackathon — a multi-agent AI code scanning & refactoring platform<br>👯 I’m looking to collaborate on on open-source projects <br>🤝 I’m looking for help with with understanding LLMs<br>🌱 I’m currently learning Python and Java fundamentals<br>⚡ Fun fact : I enjoy being creative, experimenting with new projects (baking, DIY) to bring to fruition
 
