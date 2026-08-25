@@ -13,7 +13,7 @@ As a frontend developer, I've built full-stack tools in Next.js, React, and Type
 I'm currently exploring software engineering opportunities where I can keep combining backend, data, and frontend work.
 
 # 💫 About Me:
-🔭 I’m currently working on Codescanner-hackathon — a multi-agent AI code scanning & refactoring platform<br>👯 I’m looking to collaborate on on open-source projects <br>🤝 I’m looking for help with with understanding LLMs<br>🌱 I’m currently learning Python and Java fundamentals<br>⚡ Fun fact : I enjoy being creative, experimenting with new projects (baking, DIY) to bring to fruition
+🔭 I’m currently working on Codescanner-hackathon — a multi-agent AI code scanning & refactoring platform<br>👯 I’m looking to collaborate on on open-source projects <br>🤝 Beyond my current work, I'm eager to build with and learn more about LLMs and AI-driven systems.<br>🌱 I’m currently learning Python and Java fundamentals<br>⚡ Fun fact : I enjoy being creative, experimenting with new projects (baking, DIY) to bring to fruition
 
 
 ## 🌐 Socials:
