@@ -2,9 +2,6 @@
 Hi, I'm Meera — a software engineer with a builder's curiosity and a nonprofit background that shapes how I approach problems in code
 
 ## About
-
-Hi, I'm Meera — a software engineer with a builder's curiosity and a nonprofit background that shapes how I approach problems in code.
-
 I've worked across the stack: writing SOQL/SQL for data audits, building Java-based backend systems, and maintaining Databricks pipelines — most recently through a technical rotational program spanning data analytics, backend development, and data engineering. I built a custom fixture-generation and test-data tool as a Claude Code plugin to streamline QA test-data setup, and use AI-assisted tools like Claude Code as a core part of my workflow — always verifying output rather than accepting it at face value.
 I'm a graduate of Pursuit Fellowship (12-month program, 9% acceptance rate) and The Collab Lab apprenticeship, where I learned how engineering teams actually work — Agile sprints, code review, and close collaboration. I studied computer science in college, but web development is what hooked me: nothing beats watching code become something a real person can click and use.
 As a frontend developer, I've built full-stack tools in Next.js, React, and TypeScript, including an AI-driven data-querying UI and a predictive shopping-list app with Firebase/Firestore.
