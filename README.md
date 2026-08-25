@@ -1,8 +1,5 @@
 ## Hi there 👋
-Here's a tightened version — also fixed to past tense since you're no longer in that role, and folded in the rotational program framing from your headline.
-
-## Headline
-> Software Engineer / Full Stack Developer 🚀 | NYC | Full Stack, Java, Data Engineering & Data Analytics
+Hi, I'm Meera — a software engineer with a builder's curiosity and a nonprofit background that shapes how I approach problems in code
 
 ## About
 
